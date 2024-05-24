@@ -65,10 +65,3 @@ export default {
 ```bash
 npm i framer-motion clsx tailwind-merge @radix-ui/react-label @tabler/icons-react
 ```
-
-
-
-## Usage For the Website 
-
-[MyStory](https://mystorybuild.vercel.app/)
-
